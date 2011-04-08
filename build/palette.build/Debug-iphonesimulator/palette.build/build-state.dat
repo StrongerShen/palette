@@ -1,0 +1,228 @@
+Tpalette
+v7
+r0
+t307551772.352714
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/Info.plist" palette-Info.plist
+cCompileXIB "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/MainWindow.xib"
+cProcessPCH /var/folders/OH/OHeTwHK8GtKdb85nxr-NTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/palette_Prefix-hhylvplhfmzybbcehflyokfvlqfu/palette_Prefix.pch.gch palette_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/main.o "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/paletteAppDelegate.o "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/paletteAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/Controller.o "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/palette" normal i386
+cGenerateDSYMFile "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app.dSYM" "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/palette"
+cTouch "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/Controller.h
+c000000004A8AC5D900000000000001B3
+t1250608601
+s435
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"paletteAppDelegate.h"
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/Controller.m
+c000000004A8AC9190000000000000496
+t1250609433
+s1174
+i"Controller.h"
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/paletteAppDelegate.h
+c000000004A881B940000000000000142
+t1250433940
+s322
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/paletteAppDelegate.m
+c000000004A881B9400000000000001DC
+t1250433940
+s476
+i"paletteAppDelegate.h"
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/MainWindow.xib
+c000000004A8AC5410000000000005883
+t1250608449
+s22659
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app
+t1285858960
+s204
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app.dSYM
+t1285858960
+s102
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/Info.plist
+t1250606105
+s542
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/MainWindow.nib
+t1250608450
+s4081
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/PkgInfo
+t1250606105
+s8
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/palette
+t1285858960
+s16528
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/Controller.o
+t1285858960
+s21392
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/main.o
+t1285858960
+s6336
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/palette.LinkFileList
+c000000004CA4A68F00000000000001B2
+t1285858959
+s434
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/paletteAppDelegate.o
+t1285858960
+s18372
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/main.m
+c000000004A881B940000000000000164
+t1250433940
+s356
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/palette_Prefix.pch
+c000000004A881B9400000000000000B7
+t1250433940
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/OH/OHeTwHK8GtKdb85nxr-NTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/palette_Prefix-hhylvplhfmzybbcehflyokfvlqfu/palette_Prefix.pch.gch
+t1285858959
+s13825936
+
+Npalette-Info.plist
+c000000004A881B94000000000000038D
+t1250433940
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307551772#307551772#0(0"0(0#1#0"8613989152#0"0#
+
+CCompileC build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/Controller.o "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307551760.019799
+e307551760.083805
+r1
+xCompileC
+xbuild/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/Controller.o
+x/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/Controller.m307551760#307551760#0(0"0(0#0#75"/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/Controller.m8617607264#2119"    cd "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-generated-files.hmap" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-own-target-headers.hmap" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-project-headers.hmap" "-F/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/DerivedSources/i386" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/DerivedSources" -include /var/folders/OH/OHeTwHK8GtKdb85nxr-NTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/palette_Prefix-hhylvplhfmzybbcehflyokfvlqfu/palette_Prefix.pch -c "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/Controller.m" -o "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/Controller.o"0#
+
+CCompileC build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/main.o "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307551759.961254
+e307551760.019692
+r1
+xCompileC
+xbuild/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/main.o
+x/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/main.m307551759#307551760#0(0"0(0#0#61"/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/main.m8618405920#2099"    cd "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-generated-files.hmap" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-own-target-headers.hmap" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-project-headers.hmap" "-F/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/DerivedSources/i386" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/DerivedSources" -include /var/folders/OH/OHeTwHK8GtKdb85nxr-NTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/palette_Prefix-hhylvplhfmzybbcehflyokfvlqfu/palette_Prefix.pch -c "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/main.m" -o "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/paletteAppDelegate.o "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/paletteAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307551759.962663
+e307551760.036736
+r1
+xCompileC
+xbuild/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/paletteAppDelegate.o
+x/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/paletteAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/paletteAppDelegate.m307551759#307551760#0(0"0(0#0#83"/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/paletteAppDelegate.m8618055744#2135"    cd "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-generated-files.hmap" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-own-target-headers.hmap" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-project-headers.hmap" "-F/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/DerivedSources/i386" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/DerivedSources" -include /var/folders/OH/OHeTwHK8GtKdb85nxr-NTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/palette_Prefix-hhylvplhfmzybbcehflyokfvlqfu/palette_Prefix.pch -c "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/Classes/paletteAppDelegate.m" -o "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/paletteAppDelegate.o"0#
+
+CCompileXIB "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/MainWindow.xib"
+r0
+
+CGenerateDSYMFile "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app.dSYM" "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/palette"
+s307551760.113015
+e307551760.124267
+r1
+xGenerateDSYMFile
+x/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app.dSYM
+x/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/palette
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/palette.app.dSYM build/Debug-iphonesimulator/palette.app/palette307551760#307551760#0(0"0(0#0#102"/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/palette8614962688#437"    cd "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/palette" -o "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app.dSYM"0#
+
+CLd "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/palette" normal i386
+s307551760.083896
+e307551760.112918
+r1
+xLd
+x/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/palette
+xnormal
+xi386
+lSLF07#2@107"Link /Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/palette307551760#307551760#0(0"0(0#0#0"8616140384#990"    cd "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator" "-F/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator" -filelist "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/Objects-normal/i386/palette.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/palette"0#
+
+CProcessInfoPlistFile "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app/Info.plist" palette-Info.plist
+r0
+
+CProcessPCH /var/folders/OH/OHeTwHK8GtKdb85nxr-NTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/palette_Prefix-hhylvplhfmzybbcehflyokfvlqfu/palette_Prefix.pch.gch palette_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307551759.315061
+e307551759.961116
+r1
+xProcessPCH
+x/var/folders/OH/OHeTwHK8GtKdb85nxr-NTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/palette_Prefix-hhylvplhfmzybbcehflyokfvlqfu/palette_Prefix.pch.gch
+xpalette_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile palette_Prefix.pch307551759#307551759#0(0"0(0#0#73"/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/palette_Prefix.pch8613716000#1973"    cd "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-generated-files.hmap" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-own-target-headers.hmap" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/palette-project-headers.hmap" "-F/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/DerivedSources/i386" "-I/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/palette.build/Debug-iphonesimulator/palette.build/DerivedSources" -c "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/palette_Prefix.pch" -o /var/folders/OH/OHeTwHK8GtKdb85nxr-NTE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/palette_Prefix-hhylvplhfmzybbcehflyokfvlqfu/palette_Prefix.pch.gch0#
+
+CTouch "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app"
+s307551760.124352
+e307551760.126983
+r1
+xTouch
+x/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app
+lSLF07#2@100"Touch /Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app307551760#307551760#0(0"0(0#0#0"8614475616#314"    cd "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug-iphonesimulator/palette.app"0#
+

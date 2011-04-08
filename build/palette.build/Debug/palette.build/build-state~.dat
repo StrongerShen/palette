@@ -1,0 +1,44 @@
+Tpalette
+v7
+r1
+cCheck dependencies
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/MainWindow.xib
+c000000004A8AC5410000000000005883
+t1250608449
+s22659
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug/palette.app
+t2
+s0
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug/palette.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug/palette.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug/palette.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+Npalette-Info.plist
+c000000004A881B94000000000000038D
+t1250433940
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307551700#307551700#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos3.0'1(4@58"error: There is no SDK with the name or path 'iphoneos3.0'307551700#18446744073709551615#0#0(1@0"0(0#1#0"8617442144#0"0#
+
+CCompileXIB "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/MainWindow.xib"
+r0
+
+CProcessInfoPlistFile "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug/palette.app/Contents/Info.plist" palette-Info.plist
+r0
+
+CTouch "/Volumes/Macintosh HD2/ProgDev/iPhone_practice/palette/build/Debug/palette.app"
+r0
+
